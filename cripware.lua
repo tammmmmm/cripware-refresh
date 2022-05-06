@@ -40,7 +40,7 @@ local menu
 do
     local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/senpaioffice132/frosty.tk/main/cw_menu.lua"))()
 
-    menu = library.new([[soaphook <font color="rgb(78, 93, 234)">dev</font>]], "nemv2\\")
+    menu = library.new([[Geo CS2 <font color="rgb(78, 93, 234)">pro</font>]], "nemv2\\")
     local tabs = {
         menu.new_tab("http://www.roblox.com/asset/?id=7300477598"),
         menu.new_tab("http://www.roblox.com/asset/?id=7300535052"),
