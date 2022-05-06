@@ -38,7 +38,7 @@ end
 
 local menu
 do
-    local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/senpaioffice132/frosty.tk/main/cw_menu.lua"))()
+    local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/tammmmmm/cripware-refresh/main/cripware-UI.lua"))()
 
     menu = library.new([[Geo CS2 <font color="rgb(78, 93, 234)">pro</font>]], "nemv2\\")
     local tabs = {
