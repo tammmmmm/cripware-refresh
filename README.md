@@ -9,4 +9,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/tammmmmm/cripware-ref
 ```
 ## Changed menu keybind
 Changed the keybind from Insert to End for better QoL with internal SynapseX
+
 ![](https://foob.cc/i/SjSZjRi.png)
